@@ -1,1 +1,1 @@
-Javascript carnival
+Javascript carnival: Whack a mole
